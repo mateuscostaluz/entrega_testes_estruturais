@@ -15,4 +15,4 @@ https://aluguebug.herokuapp.com/ajuda
 ## Disciplina
 Laboratório de Desenvolvimento em Banco de Dados VI
 
-Video da apresentação [aqui]()
+Video da apresentação [aqui](https://github.com/mateuscostaluz/entrega_testes_estruturais/blob/master/review/entrega_testes_estruturais.mp4)
