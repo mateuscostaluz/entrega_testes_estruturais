@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="aluguel.AluguelTest" tests="11" skipped="0" failures="2" errors="0" timestamp="2020-07-12T02:42:20" hostname="DESKTOP-JGAJO5K" time="1.926">
+<testsuite name="aluguel.AluguelTest" tests="11" skipped="0" failures="2" errors="0" timestamp="2020-07-12T02:48:22" hostname="DESKTOP-JGAJO5K" time="1.768">
   <properties/>
-  <testcase name="test_dia_maior_que_30_MCL()" classname="aluguel.AluguelTest" time="0.178"/>
-  <testcase name="test_dia_0_MCL()" classname="aluguel.AluguelTest" time="0.176">
+  <testcase name="test_dia_maior_que_30_MCL()" classname="aluguel.AluguelTest" time="0.165"/>
+  <testcase name="test_dia_0_MCL()" classname="aluguel.AluguelTest" time="0.162">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;-1.0&gt; but was: &lt;900.0&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;-1.0&gt; but was: &lt;900.0&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:54)
 	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:195)
@@ -76,12 +76,12 @@
 	at java.lang.Thread.run(Thread.java:748)
 </failure>
   </testcase>
-  <testcase name="test_dia_1_MCL()" classname="aluguel.AluguelTest" time="0.181"/>
-  <testcase name="test_dia_5_MCL()" classname="aluguel.AluguelTest" time="0.173"/>
-  <testcase name="test_dia_6_MCL()" classname="aluguel.AluguelTest" time="0.17"/>
-  <testcase name="test_dia_10_MCL()" classname="aluguel.AluguelTest" time="0.171"/>
-  <testcase name="test_dia_11_MCL()" classname="aluguel.AluguelTest" time="0.172"/>
-  <testcase name="test_dia_15_MCL()" classname="aluguel.AluguelTest" time="0.175">
+  <testcase name="test_dia_1_MCL()" classname="aluguel.AluguelTest" time="0.159"/>
+  <testcase name="test_dia_5_MCL()" classname="aluguel.AluguelTest" time="0.158"/>
+  <testcase name="test_dia_6_MCL()" classname="aluguel.AluguelTest" time="0.159"/>
+  <testcase name="test_dia_10_MCL()" classname="aluguel.AluguelTest" time="0.159"/>
+  <testcase name="test_dia_11_MCL()" classname="aluguel.AluguelTest" time="0.16"/>
+  <testcase name="test_dia_15_MCL()" classname="aluguel.AluguelTest" time="0.161">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;1000.0&gt; but was: &lt;900.0&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;1000.0&gt; but was: &lt;900.0&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:54)
 	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:195)
@@ -155,9 +155,9 @@
 	at java.lang.Thread.run(Thread.java:748)
 </failure>
   </testcase>
-  <testcase name="test_dia_16_MCL()" classname="aluguel.AluguelTest" time="0.174"/>
-  <testcase name="test_dia_30_MCL()" classname="aluguel.AluguelTest" time="0.177"/>
-  <testcase name="test_dia_menor_que_0_MCL()" classname="aluguel.AluguelTest" time="0.174"/>
+  <testcase name="test_dia_16_MCL()" classname="aluguel.AluguelTest" time="0.16"/>
+  <testcase name="test_dia_30_MCL()" classname="aluguel.AluguelTest" time="0.16"/>
+  <testcase name="test_dia_menor_que_0_MCL()" classname="aluguel.AluguelTest" time="0.159"/>
   <system-out><![CDATA[Mateus Costa Luz
 Consumindo API - https://aluguebug.herokuapp.com/calc?dados=
 valor do aluguel: R$-1.0
